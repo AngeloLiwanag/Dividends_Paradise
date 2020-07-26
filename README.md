@@ -52,8 +52,8 @@ In the `Custom Management System`, managers will have full control of products t
 * Stripe
 
 ## Contact
-Email: [a link](AngeloLiwanag75@gmail.com)
+Email: [AngeloLiwanag75@gmail.com]
 
-LinkedIn: [a link](https://www.linkedin.com/in/angelo-liwanag/)
+LinkedIn: [linkedin.com/in/angelo-liwanag/](https://www.linkedin.com/in/angelo-liwanag/)
 
-Website: [a link](http://angeloliwanag.com/)
+Website: [angeloliwanag.com](http://angeloliwanag.com/)
