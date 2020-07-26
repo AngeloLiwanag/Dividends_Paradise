@@ -25,13 +25,13 @@ npm install
 
 Run the application from the base with the following commands:
 
-`terminal 1`
+terminal 1
 ```
 cd server
 nodemon server.js
 ```
 
-`terminal 2`
+terminal 2
 ```
 cd client
 npm start
