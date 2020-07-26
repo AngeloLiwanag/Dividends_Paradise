@@ -24,6 +24,7 @@ npm install
 ```
 
 Run the application from the base with the following commands:
+
 `terminal 1`
 ```
 cd server
